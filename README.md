@@ -1,2 +1,4 @@
 # bilstons_finest
-i want to be the very best
+this here is a maths quiz programmed in Java, i used a MySQL database, Java Swing is the GUI and used the Weka API
+now, this is my first project, so be harsh 
+thank you for peeping.
